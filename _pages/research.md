@@ -18,9 +18,3 @@ Cormier, Grace, Paul Green, and Sameer Srivastava, **Lara Yang**.  “Unpacking 
 **Yang, Lara**. “A Large-Scale Computational Study of Glassdoor Reviews Shows the Performance (Dis)advantages of Organizational Identification”. Analyzing Data.
 
 Carroll, Glenn, and **Lara Yang**. “Gender and Culture in Organizations: Perceptions, beliefs, and experiences”. Analyzing Data.
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
