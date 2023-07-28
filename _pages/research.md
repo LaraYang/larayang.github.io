@@ -4,10 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-## Working Papers
+## Under Review ##
 **Yang, Lara**, Amir Goldberg, Sameer Srivastava. [Locally Ensconced and Globally Integrated: How Positions in Network Structure Relate to a Language-Based Model of Group Identification](https://osf.io/preprints/socarxiv/zrpx7). *Revise and Resubmit at American Journal of Sociology.*
 
+
+## Working Papers
 **Yang Lara**. I’s of a feather: How Observable and Latent Homophily in Expressed Identity Relate to the Strength of Different Dyadic Relationships. *Job Market Paper.*
 
 ## Work in Progress
