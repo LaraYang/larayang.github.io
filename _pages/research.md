@@ -12,9 +12,9 @@ author_profile: true
 **Yang Lara**. I’s of a feather: How Observable and Unobservable Similarity in Expressed Identity Relate to the Strength of Social Ties. *Job Market Paper.*
 
 ## Work in Progress
-**Yang Lara** Grace Cormier, Paul Green, and Sameer Srivastava. “The Effects of A Network-Based Learning Intervention on Belongingness and Inclusion in the Workplace”. Analyzing Data.
+**Yang Lara**, Grace Cormier, Paul Green, and Sameer Srivastava. “The Effects of A Network-Based Learning Intervention on Belongingness and Inclusion in the Workplace”. Analyzing Data.
 
-**Lara Yang** Grace Cormier, Paul Green, and Sameer Srivastava.  “Unpacking Relational Energy in the Workplace”. Analyzing Data.
+**Lara Yang**, Grace Cormier, Paul Green, and Sameer Srivastava.  “Unpacking Relational Energy in the Workplace”. Analyzing Data.
 
 **Yang, Lara**. “A Large-Scale Computational Study of Glassdoor Reviews Shows the Performance (Dis)advantages of Organizational Identification”. Analyzing Data.
 
