@@ -9,10 +9,10 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-[About me](https://larayang.github.io/)
+[About me](/)
 
-[Research](https://larayang.github.io/research/)
+[Research](/research/)
 
-[CV](https://larayang.github.io/cv/)
+[CV](/cv/)
 
-[Sitemap](https://larayang.github.io/sitemap/)
+[Sitemap](/sitemap/)
